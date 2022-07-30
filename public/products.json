@@ -1,0 +1,11 @@
+{
+    "products":[
+        {"id":1, "name": "TATA Nexon", "Branch": "Mumbai", "Revenue": 120000},
+        {"id":2, "name": "TATA Harrier","Branch": "Mumbai", "Revenue": 80000},
+        {"id":3, "name": "Mahindra Scorpio","Branch": "Pune", "Revenue": 100000},
+        {"id":4, "name": "AUDI","Branch": "Pune", "Revenue": 150000},
+        {"id":5, "name": "Marcedes Benz","Branch": "Banglore", "Revenue": 100000},
+        {"id":6, "name": "Hyundai Creta","Branch": "Banglore", "Revenue": 85000},
+        {"id":7, "name": "Toyota Innova Crista", "Branch": "Delhi", "Revenue": 120000}
+    ]
+}
